@@ -1,5 +1,6 @@
 # Properties of probability measure
 
+[[Probability measure (Axioms)]]
 
 Lemma 1.1
 
