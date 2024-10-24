@@ -1,5 +1,7 @@
 # Probability measure (Axioms)
 
+[[Probability space]] [[Properties of probability measure]] [[Distribution functions]]
+
 Essentially the 3rd component of a probability space. This is defined by Axioms of probability
 A probability measure P on (Ω, F) is a set of function with the domain F satisfying:
 P(A) >= 0 for all A in F
