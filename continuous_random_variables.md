@@ -12,11 +12,11 @@ When we refer to a continuous random variable X we are asserting that the distri
 The density function fx(.) is not uniquely prescribed.
 
 Lemma 2.2
-If X has a density function fx(.) then
-1. fx(x) ≥ 0
-2. ∫(-inf, inf) fx(x) dx = 1
-3. ℙ(a < X ≤ b) = ∫(a,b) fx(x) dx
-4. ℙ(X=x) = 0, for all x ∊ ℝ
+If X has a density function fx(.) then  
+1. fx(x) ≥ 0  
+2. ∫(-inf, inf) fx(x) dx = 1  
+3. ℙ(a < X ≤ b) = ∫(a,b) fx(x) dx  
+4. ℙ(X=x) = 0, for all x ∊ ℝ  
 
 #appliedstats #classnotes #psm #ch2
 #probability
