@@ -1,4 +1,4 @@
-# Distribution function
+# Distribution functions
 
 [[Random variables]] [[Probability measure (Axioms)]]
 
