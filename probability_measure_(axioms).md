@@ -18,7 +18,7 @@ For example, consider the experiment of rolling a die. The sample space is:
 
 A possible event could be “rolling an even number”, which corresponds to the subset  {2, 4, 6} . The probability measure might assign a probability of  1/2 to this event.
 
-In contrast a [[Distribution Functions]] defines how probabilites are distributed over the Random variable of Ω. e.g. P(X≤2) = 1/3
+In contrast a [[Distribution functions]] defines how probabilites are distributed over the Random variable of Ω. e.g. P(X≤2) = 1/3
 
 Why the distinction is important:
 A probability measure on its own describes the likelihood of events, not how the probability is distributed within those events.
