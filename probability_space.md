@@ -4,7 +4,7 @@ The mathematical framework that allows us to construct random variables represen
 It has 3 elements:  
 * A sample space Ω [[Sample space]]  
 * A family of events (Field) [[Field and sigma field]]  
-* And a probability P [[Probability measure (Axioms)]]. 
+* And a probability P [[Probability measure (Axioms)]]  
 
 
 #classnotes #psm #probability #ch1 #appliedstats
