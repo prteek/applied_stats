@@ -1,12 +1,12 @@
 # Distribution of monotone RV
 
 Monotonous function y = g(x) can be either
-Non decreasing (derivative +ve)
-Non increasing (derivative -ve)
+1. Non decreasing (derivative +ve)
+2. Non increasing (derivative -ve)
 
 They can also be
-Strictly increasing (or decreasing) ; g^-1 is a point set {y}
-Not strictly increasing (or decreasing) ; g^-1 is a set but for single y ∊ Yi has multiple x ∊ Xi
+1. Strictly increasing (or decreasing) ; g^-1 is a point set {y}
+2. Not strictly increasing (or decreasing) ; g^-1 is a set but for single y ∊ Yi has multiple x ∊ Xi
 
 consider X~Fx(X) ; fx(X)
 Y = g(X) ; Let g(X) is strictly increasing (unique inverse)
@@ -31,4 +31,4 @@ The abs operator here ensures that fy is non negative since it is a probability 
 
 Examples in Lecture notes and Casella Berger
 
-#appliedstats #classnotes #psm #ch4 #probability 
+#appliedstats #classnotes #psm #ch4 #probability
