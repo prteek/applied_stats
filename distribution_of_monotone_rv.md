@@ -31,4 +31,4 @@ The abs operator here ensures that fy is non negative since it is a probability 
 
 Examples in Lecture notes and Casella Berger
 
-#appliedstats￼ #classnotes ￼#psm￼ #ch4 ￼#probability
+#appliedstats #classnotes #psm #ch4 #probability 
